@@ -29,8 +29,8 @@
             <img src="https://avatars.githubusercontent.com/minpaeng" width="140px" /> <br><br> 🐰 권민정 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/alsrbs">
             <img src="https://avatars.githubusercontent.com/alsrbs" width="140px" /> <br><br> 🎀 김민균 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/-">
-            <img src="https://avatars.githubusercontent.com/-" width="140px" /> <br><br> 🐲 김준석 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/JUN1515">
+            <img src="https://avatars.githubusercontent.com/JUN1515" width="140px" /> <br><br> 🐲 김준석 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/qkdk">
             <img src="https://avatars.githubusercontent.com/qkdk" width="140px" /> <br><br> 🐰 안규보 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/yoon-dh">
