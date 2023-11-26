@@ -71,7 +71,7 @@
 
 <div align="center">
   <br />
-  <img src="img/erd.png" width="80%"/>
+  <img src="img/eefy_erd.png" width="80%"/>
   <br />
 </div>
 
